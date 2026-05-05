@@ -1,0 +1,11 @@
+sistema funcional:
+deve haver a seleçao das palavras secretas aleatoriamente e predefinida
+deve apresentar a palavra por traços
+permitir o jogador inserir uma letra
+verificar se a letra é igual a palavra inserida
+atualizar o estado do jogo em cada jogo
+identificar a vitoria e derrota
+sistema não funcional
+o jogo deve ser simples e compreensível
+o sistema deve responder rapidamente
+deve validar e ignorar carateres especiais, apenas letras.
